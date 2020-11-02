@@ -2,7 +2,7 @@
 
 3rd year Computer Science student at uOttawa :notebook:
 <br>
-Software Engineer at uOttawa IT :computer:
+Software Developer at uOttawa IT :computer:
 <br>
 Community Advisor at uOttawa Res Life :busts_in_silhouette:
 
