@@ -1,10 +1,10 @@
 ### Hi, I'm Michelle Paradis 👋
 
-3rd year Computer Science student at uOttawa :notebook:
+Full-time Computer Science student at uOttawa :notebook:
 <br>
-Software Developer at uOttawa IT :computer:
+Part-time Software Developer at uOttawa IT :computer:
 <br>
-Community Advisor at uOttawa Res Life :busts_in_silhouette:
+Part-time Community Advisor at uOttawa Res Life :busts_in_silhouette:
 
 [![Linkedin: Michelle Paradis](https://img.shields.io/badge/-MichelleParadis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-p-5aa062176/)](https://www.linkedin.com/in/michelle-p-5aa062176/) [![GitHub michpara](https://img.shields.io/github/followers/michpara?label=follow&style=social)](https://github.com/michpara)
 
