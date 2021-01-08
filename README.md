@@ -10,4 +10,4 @@ Part-time Community Advisor at uOttawa Res Life :busts_in_silhouette:
 
 ### <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://imgur.com/QcjrCMw.png" width="600">
+<img src="https://imgur.com/7yXThs6" width="600">
