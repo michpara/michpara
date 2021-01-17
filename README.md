@@ -1,13 +1,47 @@
-### Hi, I'm Michelle Paradis 👋
-
-Full-time Computer Science student at uOttawa :notebook:
+<h3 align="center">Hi, I'm Michelle Paradis! 👋</h3>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/michelle-p-5aa062176/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/10761213/michelle-paradis" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/michpara_/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
 <br>
-Part-time Software Developer at uOttawa IT :computer:
-<br>
-Part-time Community Advisor at uOttawa Res Life :busts_in_silhouette:
+<p align="center">
+  <br>
+  🎓 I'm currently studying Computer Science at the University of Ottawa
+  <br>
+  💻 I work part-time as a Junior Web Developer for uOttawa IT
+  <br>
+  💬 I work part-time as a Community Advisor for uOttawa Res Life
+  <br>
+  📚 I’m currently learning about the MapBox API
+  <br>
+  📫 How to reach me: <a href="mailto: michpara@yahoo.com">michpara@yahoo.com</a>
+</p>
 
-[![Linkedin: Michelle Paradis](https://img.shields.io/badge/-MichelleParadis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-p-5aa062176/)](https://www.linkedin.com/in/michelle-p-5aa062176/) [![GitHub michpara](https://img.shields.io/github/followers/michpara?label=follow&style=social)](https://github.com/michpara)
+<hr>
 
-### <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> A little more about me...  
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-<img src="https://imgur.com/7yXThs6.png" width="600">
+<p align="center">
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="Ruby" height="25" src="https://github.com/michpara/michpara/blob/main/images/ruby.svg"></code>
+  <code><img title="SQL" height="25" src="https://github.com/michpara/michpara/blob/main/images/sql.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/michpara/michpara/blob/main/images/php.svg"></code>
+</p>
+
+<hr>
+
+<p align=center>
+  <a href="https://github.com/michpara/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=michpara&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/michpara/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michpara&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
