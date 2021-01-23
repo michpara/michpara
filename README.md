@@ -7,13 +7,13 @@
 <br>
 <p align="center">
   <br>
-  🎓 I'm currently studying Computer Science at the University of Ottawa
+  🎓 I'm currently studying <b>Computer Science</b> at the University of Ottawa
   <br>
-  💻 I work part-time as a Junior Web Developer for uOttawa IT
+  💻 I work part-time as a <b>Junior Web Developer</b> for uOttawa IT
   <br>
-  💬 I work part-time as a Community Advisor for uOttawa Res Life
+  💬 I work part-time as a <b>Community Advisor</b> for uOttawa Res Life
   <br>
-  📚 I’m currently learning about the MapBox API
+  📚 I’m currently learning about the <b>MapBox API</b>
   <br>
   📫 How to reach me: <a href="mailto: michpara@yahoo.com">michpara@yahoo.com</a>
 </p>
