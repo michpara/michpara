@@ -11,7 +11,7 @@
   <br>
   💬 I work part-time as a <b>Community Advisor</b> for uOttawa Res Life
   <br>
-  📚 I’m currently learning <b>FitBit Studio</b>
+  📚 I’m currently learning <b>React and Python Tornado</b>
   <br>
   📫 How to reach me: <a href="mailto: michpara@yahoo.com">michpara@yahoo.com</a>
 </p>
