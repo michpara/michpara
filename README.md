@@ -7,9 +7,7 @@
   <br>
   🎓 I'm currently studying <b>Computer Science</b> at the University of Ottawa
   <br>
-  💻 I work part-time as a <b>Junior Web Developer</b> for uOttawa IT
-  <br>
-  💬 I work part-time as a <b>Community Advisor</b> for uOttawa Res Life
+  💻 I work full-time as a <b>Software Engineer Intern</b> for Microsoft
   <br>
   📚 I’m currently learning <b>WayScript and Twilio</b>
   <br>
