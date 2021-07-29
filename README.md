@@ -9,7 +9,7 @@
   <br>
   💻 I work full-time as a <b>Software Engineer Intern</b> for Microsoft
   <br>
-  📚 I’m currently learning <b>WayScript and Twilio</b>
+  📚 I’m currently learning <b>React.js</b>
   <br>
   📫 How to reach me: <a href="mailto: michpara@yahoo.com">michpara@yahoo.com</a>
 </p>
