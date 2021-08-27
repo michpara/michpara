@@ -2,16 +2,19 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/michelle-p-5aa062176/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
-<br>
 <p align="center">
   <br>
   Hi! I'm Michelle. I'm a senior at the University of Ottawa graduating in April with a degree in Computer Science.
   <br>
+  <br>
   I have over 2 years experience working in Web Development as a Full Stack Developer where I have completed dozens of Pull Requests and helped onboard many students onto the team. In addition, I have 2 years experience working as a Resident Advisor, where I oversee the safety and build community for more than 100 students yearly
+  <br>
   <br>
   Currently, I continue to work part-time as a Full Stack Developer and Resident Advisor at the University of Ottawa, while also studying full-time.
   <br>
+  <br>
   Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at Hack the North and the Microsoft Student Hackathon this year.
+  <br>
   <br>
   I also like meeting new people over a cup of coffee. Feel free to reach out at michelleusherparadis@gmail.com
 </p>
