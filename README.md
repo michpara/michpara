@@ -19,8 +19,6 @@
   I also like meeting new people over a cup of coffee. Feel free to reach out at michelleusherparadis@gmail.com
 </p>
 
-<hr>
-
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
@@ -35,8 +33,6 @@
   <code><img title="SQL" height="25" src="https://github.com/michpara/michpara/blob/main/images/sql.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/michpara/michpara/blob/main/images/php.svg"></code>
 </p>
-
-<hr>
 
 <p align=center>
   <a href="https://github.com/michpara/github-readme-stats" title="Go to Source">
