@@ -5,13 +5,15 @@
 <br>
 <p align="center">
   <br>
-  🎓 I'm currently studying <b>Computer Science</b> at the University of Ottawa
+  Hi! I'm Michelle. I'm a senior at the University of Ottawa graduating in April with a degree in Computer Science.
   <br>
-  💻 I work full-time as a <b>Software Engineer Intern</b> for Microsoft
+  I have over 2 years experience working in Web Development as a Full Stack Developer where I have completed dozens of Pull Requests and helped onboard many students onto the team. In addition, I have 2 years experience working as a Resident Advisor, where I oversee the safety and build community for more than 100 students yearly
   <br>
-  📚 I’m currently learning <b>React.js</b>
+  Currently, I continue to work part-time as a Full Stack Developer and Resident Advisor at the University of Ottawa, while also studying full-time.
   <br>
-  📫 How to reach me: <a href="mailto: michpara@yahoo.com">michpara@yahoo.com</a>
+  Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at Hack the North and the Microsoft Student Hackathon this year.
+  <br>
+  I also like meeting new people over a cup of coffee. Feel free to reach out at michelleusherparadis@gmail.com
 </p>
 
 <hr>
