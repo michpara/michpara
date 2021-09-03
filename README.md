@@ -4,19 +4,25 @@
 </h5>
 <p align="center">
   <br>
-  Hi! I'm Michelle. I'm a senior at the University of Ottawa graduating in April with a degree in Computer Science.
+    Hi! I'm Michelle. I'm a senior at the University of Ottawa graduating in April with a degree in Computer Science. 
   <br>
   <br>
-  I have over 2 years experience working in Web Development as a Full Stack Developer where I have completed dozens of Pull Requests and helped onboard many students onto the team. In addition, I have 2 years experience working as a Resident Advisor, where I oversee the safety and build community for more than 100 students yearly
+    I have over 2 years experience working in Web Development as a Full Stack Developer where I have completed 47 successful Pull Requests and helped onboard 5+ students onto the team. I have attended 40+ Scrum Sprints, Retrospectives, Reviews and 200+ Scrum Daily Standups. In addition, I have 2 years experience working as a Resident Advisor, where I oversee the safety and build community for 80+ students yearly.
   <br>
   <br>
-  Currently, I continue to work part-time as a Full Stack Developer and Resident Advisor at the University of Ottawa, while also studying full-time.
+    Currently, I continue to work part-time as a Full Stack Developer and Resident Advisor at the University of Ottawa, while also studying full-time.
   <br>
   <br>
-  Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at Hack the North and the Microsoft Student Hackathon this year.
+    This summer, I worked at Microsoft as a Software Developer Intern for the Garage program. I collaborated with a team of 7 interns towards the successful completion of a Microsoft Teams (an application with over 145 million active daily users) extension that enabled a more personal and engaging messaging experience.
   <br>
   <br>
-  I also like meeting new people over a cup of coffee. Feel free to reach out at michelleusherparadis@gmail.com
+    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at Hack the North and the Microsoft Student Hackathon this year.
+  <br>
+  <br>
+    Feel free to reach out at michelleusherparadis@gmail.com
+  <br>
+  <br>
+    Competencies: Python, Ruby, JavaScript, PHP, SQL, HTML and CSS, Git
 </p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
