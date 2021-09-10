@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Michelle Paradis! 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/michelle-p-5aa062176/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/michelle-paradis/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <p align="center">
   <br>
