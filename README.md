@@ -16,7 +16,7 @@
     This summer, I worked at Microsoft as a Software Developer Intern for the Garage program. I collaborated with a team of 7 interns towards the successful completion of a Microsoft Teams (an application with over 145 million active daily users) extension that enabled a more personal and engaging messaging experience.
   <br>
   <br>
-    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at Hack the North and the Microsoft Student Hackathon this year.
+    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at uOttaHack and the Microsoft Student Hackathon this year.
   <br>
   <br>
     Feel free to reach out at michelleusherparadis@gmail.com
