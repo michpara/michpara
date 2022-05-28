@@ -7,7 +7,7 @@
     Hi! I'm Michelle. I have a degree in Computer Science from the University of Ottawa. 
   <br>
   <br>
-    I have over 3 years experience working in Web Development as a Full Stack Developer where I have completed 50+ successful Pull Requests. I have attended 50+ Scrum Sprints, Retrospectives, Reviews and 300+ Scrum Daily Standups. In addition, I have 3 years experience working as a Resident Advisor, where I oversee the safety and build community for 80+ students yearly.
+    I have over 3 years experience working in Web Development as a Full Stack Developer where I have completed 50+ successful Pull Requests. I have attended 50+ Scrum Sprints, Retrospectives, Reviews and 300+ Scrum Daily Standups. In addition, I have 3 years experience working as a Resident Advisor, where I oversaw the safety and built community for 80+ students yearly.
   <br>
   <br>
     Currently, I am a Full Stack Developer for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
