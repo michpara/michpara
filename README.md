@@ -13,7 +13,7 @@
     Currently, I am a Full Stack Developer for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
   <br>
   <br>
-    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at uOttaHack and the Microsoft Student Hackathon this year.
+    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love gaming, and am currently playing through the Outer Wilds DLC and The Witcher 3.
   <br>
   <br>
     Feel free to reach out at michelleusherparadis@gmail.com
