@@ -4,16 +4,13 @@
 </h5>
 <p align="center">
   <br>
-    Hi! I'm Michelle. I'm a senior at the University of Ottawa graduating in April with a degree in Computer Science. 
+    Hi! I'm Michelle. I have a degree in Computer Science from the University of Ottawa. 
   <br>
   <br>
-    I have over 2 years experience working in Web Development as a Full Stack Developer where I have completed 47 successful Pull Requests and helped onboard 5+ students onto the team. I have attended 40+ Scrum Sprints, Retrospectives, Reviews and 200+ Scrum Daily Standups. In addition, I have 2 years experience working as a Resident Advisor, where I oversee the safety and build community for 80+ students yearly.
+    I have over 3 years experience working in Web Development as a Full Stack Developer where I have completed 50+ successful Pull Requests. I have attended 50+ Scrum Sprints, Retrospectives, Reviews and 300+ Scrum Daily Standups. In addition, I have 3 years experience working as a Resident Advisor, where I oversee the safety and build community for 80+ students yearly.
   <br>
   <br>
-    Currently, I continue to work part-time as a Full Stack Developer and Resident Advisor at the University of Ottawa, while also studying full-time.
-  <br>
-  <br>
-    This summer, I worked at Microsoft as a Software Developer Intern for the Garage program. I collaborated with a team of 7 interns towards the successful completion of a Microsoft Teams (an application with over 145 million active daily users) extension that enabled a more personal and engaging messaging experience.
+    Currently, I am a Full Stack Developer for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
   <br>
   <br>
     Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love to attend Hackathons, and will be hacking at uOttaHack and the Microsoft Student Hackathon this year.
