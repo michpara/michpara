@@ -10,7 +10,7 @@
     I have over 3 years experience working in Web Development as a Full Stack Developer where I have completed 50+ successful Pull Requests. I have attended 50+ Scrum Sprints, Retrospectives, Reviews and 300+ Scrum Daily Standups. In addition, I have 3 years experience working as a Resident Advisor, where I oversaw the safety and built community for 80+ students yearly.
   <br>
   <br>
-    Currently, I am a Full Stack Developer for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
+    Currently, I am a Programmer Analyst for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
   <br>
   <br>
     Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love gaming, and am currently playing through the Outer Wilds DLC and The Witcher 3.
