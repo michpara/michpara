@@ -7,19 +7,19 @@
     Hi! I'm Michelle. I have a degree in Computer Science from the University of Ottawa. 
   <br>
   <br>
-    I have over 3 years experience working in Web Development as a Full Stack Developer where I have completed 50+ successful Pull Requests. I have attended 50+ Scrum Sprints, Retrospectives, Reviews and 300+ Scrum Daily Standups. In addition, I have 3 years experience working as a Resident Advisor, where I oversaw the safety and built community for 80+ students yearly.
+    I have over 4 years experience working as a Full Stack Developer both part-time and full-time. In addition, I have 3 years experience working as a Resident Advisor, where I oversaw the safety and built community for 80+ students yearly.
   <br>
   <br>
-    Currently, I am a Programmer Analyst for the University of Ottawa, and will be starting as a Software Developer at Microsoft in the Fall.
+    Currently, I am a Software Developer at Microsoft.
   <br>
   <br>
-    Outside of work, I love playing the piano - I'm currently aiming for my grade 7 certificate - and exercising. I also love gaming, and am currently playing through the Outer Wilds DLC and The Witcher 3.
+    Outside of work, I’ve been learning how to skate and am aiming to be able to skate on the Rideau Canal this year. I also love gaming, and am currently playing through the Final Fantasy 7 Remake!
   <br>
   <br>
     Feel free to reach out at michelleusherparadis@gmail.com
   <br>
   <br>
-    Competencies: Python, Ruby, JavaScript, PHP, SQL, HTML and CSS, Git
+    Competencies: Python, Ruby, JavaScript (TypeScript) and React, MobX, C#, PHP, SQL, HTML and CSS, Git, Azure DevOps
 </p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
