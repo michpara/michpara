@@ -22,21 +22,6 @@
     Competencies: Python, Ruby, JavaScript (TypeScript) and React, MobX, C#, PHP, SQL, HTML and CSS, Git, Azure DevOps
 </p>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
-<p align="center">
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="Ruby" height="25" src="https://github.com/michpara/michpara/blob/main/images/ruby.svg"></code>
-  <code><img title="SQL" height="25" src="https://github.com/michpara/michpara/blob/main/images/sql.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/michpara/michpara/blob/main/images/php.svg"></code>
-</p>
-
 <p align=center>
   <a href="https://github.com/michpara/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=michpara&show_icons=true&theme=gotham">
