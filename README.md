@@ -7,19 +7,19 @@
     Hi! I'm Michelle. I have a degree in Computer Science from the University of Ottawa. 
   <br>
   <br>
-    I have over 4 years experience working as a Full Stack Developer both part-time and full-time. In addition, I have 3 years experience working as a Resident Advisor, where I oversaw the safety and built community for 80+ students yearly.
+    I have over 5 years experience working as a Full Stack Developer both part-time and full-time.
   <br>
   <br>
-    Currently, I am a Software Developer at Microsoft.
+    Currently, I am a Software Engineer at Microsoft.
   <br>
   <br>
-    Outside of work, I’ve been learning how to skate and am aiming to be able to skate on the Rideau Canal this year. I also love gaming, and am currently playing through the Final Fantasy 7 Remake!
+    Outside of work, I’ve been learning how to crochet and have already crocheted a seal, monkey, bunny and penguin. I also love gaming, and am currently playing through Final Fantasy 7 Rebirth.
   <br>
   <br>
     Feel free to reach out at michelleusherparadis@gmail.com
   <br>
   <br>
-    Competencies: Python, Ruby, JavaScript (TypeScript) and React, MobX, C#, PHP, SQL, HTML and CSS, Git, Azure DevOps
+    Competencies: Python, Java, JavaScript (TypeScript) and React, MobX, C#, PHP, SQL, HTML and CSS, Git, Azure DevOps
 </p>
 
 <p align=center>
