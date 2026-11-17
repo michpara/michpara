@@ -7,13 +7,10 @@
     Hi! I'm Michelle. I have a degree in Computer Science from the University of Ottawa. 
   <br>
   <br>
-    I have over 5 years experience working as a Full Stack Developer both part-time and full-time.
+    I have over 7 years experience working as a Full Stack Developer both part-time and full-time.
   <br>
   <br>
-    Currently, I am a Software Engineer at Microsoft.
-  <br>
-  <br>
-    Outside of work, I’ve been learning how to crochet and have already crocheted a seal, monkey, bunny and penguin. I also love gaming, and am currently playing through Final Fantasy 7 Rebirth.
+    Currently, I am a Software Engineer II at Microsoft.
   <br>
   <br>
     Feel free to reach out at michelleusherparadis@gmail.com
